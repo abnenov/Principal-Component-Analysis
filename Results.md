@@ -487,20 +487,6 @@ for threshold in [0.7, 0.8, 0.9, 0.95]:
 
 plt.ylim([0, 1.05])
 plt.show()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
 ```
 
     1. Собствени стойности и собствени вектори
